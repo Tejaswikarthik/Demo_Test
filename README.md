@@ -1,2 +1,5 @@
 # Demo_Test
-Learning GIT
+Learning GIT.
+
+I started the execution of git commands.
+
